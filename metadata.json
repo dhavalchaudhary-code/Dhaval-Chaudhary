@@ -1,0 +1,6 @@
+{
+  "name": "CivicMind AI",
+  "description": "An autonomous agentic civic platform that identifies, verifies, predicts, and escalates local community infrastructure issues.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
